@@ -1,8 +1,9 @@
 #   Hi! My name is Paulo Hendrix! 🖖🏻
 
-#### I'm a brazilian Developer  Programmed by freeLancer, creating solutions for independent developers and professionals Mathematicians, Fisicos Cientitas Biomedicina.
+#### I'm a brazilian Developer  Programmed by freeLancer, creating solutions for independent developers and professionals Mathematicians, Fisicos, Cientitas or Biomedicina.
 You need to create a Solution to your Problem, then you are in the right place, get in touch and send the data by Graphs/Flowchart: 
-<a href="https://www.paulohendrix.com.br">WebSite</a> as a software developer and support team manager.
+#
+<a href="https://www.paulohendrix.com.br">WebSite</a>.
 #
 ## ⭐️  Some technologies | Framework ⭐️
 <a href="https://www.jetbrains.com/"><img height= "35" src= "https://img.shields.io/badge/Intellij_IDE-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=FF4D00"></a>
