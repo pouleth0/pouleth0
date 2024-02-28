@@ -5,16 +5,17 @@ You need to create a Solution to your Problem, then you are in the right place, 
 #
 <a href="https://www.paulohendrix.com.br">WebSite</a>.
 #
-## ⭐️  Some technologies | Framework ⭐️
+## ⭐️  Some technologies | Development Environment ⭐️
 <a href="https://www.jetbrains.com/"><img height= "35" src= "https://img.shields.io/badge/Intellij_IDE-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=FF4D00"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=4687FF"></a>
 <a href="https://www.eclipse.org/"><img height= "35" src= "https://img.shields.io/badge/Eclipse-FC390E?style=for-the-badge&logo=Eclipse%20IDE&logoColor=1496FF"></a>
 <a href="https://netbeans.apache.org/"><img height= "35" src= "https://img.shields.io/badge/NetBeans-66CCFF?style=for-the-badge&logo=Apache NetBeans IDE&logoColor=FA243C"></a>
 #
 ## ⭐️  Some technologies | Languages ⭐️
-<a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-{JSF,JPA,JSP}-E10915?style=for-the-badge&logo=java&logoColor=E10915"></a>
-<a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/.-NET.Core5-FF6900?style=for-the-badge&logo=C Sharp&logoColor=#239120"></a>
-<a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.JS-{.vue}-FF6900?style=for-the-badge&logo=Vue.js&logoColor=25A162"></a>
+<a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-{JSF,JSP,JakartaEE}-E10915?style=for-the-badge&logo=java&logoColor=E10915"></a>
+<a href="https://www.rust-lang.org/pt-BR/"><img height= "35" src= "https://img.shields.io/badge/{...}-RUST-AA00FF?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href="https://www.rust-lang.org/pt-BR/"><img height= "35" src= "https://img.shields.io/badge/Rust-9146FF?style=for-the-badge&logo=rust&logoColor=white"><img height= "35" src= "https://img.shields.io/badge/WebAssembly-AA00FF?style=for-the-badge&logo=WebAssembly&logoColor=white"></a> 
+<a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/.-NET.Core5{Request}-FF6900?style=for-the-badge&logo=C Sharp&logoColor=#239120&label=Request"></a>
 <a href="https://reactnative.dev/"><img height= "35" src= "https://img.shields.io/badge/React-{.js}-1C9AD6?style=for-the-badge&logo=React&logoColor=#33A0FF"></a>
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -29,9 +30,9 @@ You need to create a Solution to your Problem, then you are in the right place, 
 #
 ## ⭐️  Some technologies | Framework developer ⭐️
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.JS-FF6900?style=for-the-badge&logo=Vue.js&logoColor=25A162"></a>
 <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-<a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://sass-lang.com/"><img height= "35" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
 <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://flutter.dev/"><img height= "35" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
@@ -49,6 +50,8 @@ You need to create a Solution to your Problem, then you are in the right place, 
 ## ⭐️  Some technologies | API⭐️
 <a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/{...}-GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
 <a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/{...}-json-5E5C5C?style=for-the-badge&logo=json&logoColor=41BF47"></a>
+<a href="https://spring.io/guides/tutorials/rest/"><img height= "35" src= "https://img.shields.io/badge/%7B...%7D-Spring%20Boot-FA6831?style=for-the-badge&logo=Spring%20Boot&logoColor=41BF47"></a>
+<a href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/"><img height= "35" src= "https://img.shields.io/badge/%7B...%7D-Spring-ED2761?style=for-the-badge&logo=Spring&logoColor=41BF47"></a>
 #
 ## ⭐️  Some technologies | Languages SQL (Data Base)⭐️
 <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-1F2E3E?style=for-the-badge&logo=MySQL&logoColor=00FF00"></a>
