@@ -67,7 +67,7 @@ You need to create a Solution to your Problem, then you are in the right place, 
 <a href="https://firebase.google.com/"><img height= "35" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 ****
 ## Stats  📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pouleth0&layout=compact&theme=dark)](https://github.com/pouleth0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pouleth0&layout=compact&theme=dark&count_private=true&token=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)](https://github.com/pouleth0/github-readme-stats)
 ##   <img height= "90" src= "https://img.shields.io/badge/Setup-000000?style=&logo=linux&logoColor=#A81D33?logoWidth=90"><img height= "90" src= "https://img.shields.io/badge/-000000?style=&logo=debian&logoColor=#A81D33?logoWidth=90">
 <a href="#"><img height= "30" src= "https://img.shields.io/badge/AMD-Ryzen-0071C5?style=for-the-badge&logo=AMD&logoColor=ED1C24?logoWidth=30"></a>
 <a href="#"><img height= "30" src= "https://img.shields.io/badge/AMD_Radeon_2085-76B900?style=for-the-badge&logo=AMD&logoColor=white"></a>
