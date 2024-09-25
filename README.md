@@ -69,7 +69,7 @@ You need to create a Solution to your Problem, then you are in the right place, 
 
 ## Stats  📊
 <p aling = "center">
-  <a href="https://github.com/pouleth0/pouleth0">
+  <a href="https://wakatime.com/@Poul">
     <img height=400 align="center" src="https://wakatime.com/share/@85be49eb-edf4-498b-b2e2-74c968421730/7503534a-b1d6-4585-a3fe-788318ed1326.svg" />
   </a>
 </p>
