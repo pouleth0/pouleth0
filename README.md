@@ -68,9 +68,11 @@ You need to create a Solution to your Problem, then you are in the right place, 
 ****
 
 ## Stats  📊
-<a href="https://github.com/pouleth0/pouleth0">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pouleth0&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p aling = "center">
+  <a href="https://github.com/pouleth0/pouleth0">
+    <img height=400 align="center" src="https://wakatime.com/share/@85be49eb-edf4-498b-b2e2-74c968421730/7503534a-b1d6-4585-a3fe-788318ed1326.svg" />
+  </a>
+</p>
 
 #
 ##   <img height= "90" src= "https://img.shields.io/badge/Setup-000000?style=&logo=linux&logoColor=#A81D33?logoWidth=90"><img height= "90" src= "https://img.shields.io/badge/-000000?style=&logo=debian&logoColor=#A81D33?logoWidth=90">
