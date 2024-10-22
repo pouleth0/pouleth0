@@ -12,17 +12,20 @@ You need to create a Solution to your Problem, then you are in the right place, 
 <a href="https://netbeans.apache.org/"><img height= "35" src= "https://img.shields.io/badge/NetBeans-66CCFF?style=for-the-badge&logo=Apache NetBeans IDE&logoColor=FA243C"></a>
 <a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/-NET.Core5{Request}-FF6900?style=for-the-badge&logo=C Sharp&logoColor=#239120&label=Request"></a>
 <a href="https://www.qt.io/"><img height= "35" src= "https://img.shields.io/badge/Qt Creator-66CCFF?style=for-the-badge&logo=Qt&logoColor=FA243C"></a>
-<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=000000"></a>
+<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-51FF00?style=for-the-badge&logo=git&logoColor=000000"></a>
+<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Glade-FC5D0D?style=for-the-badge&logo=git&logoColor=000000"></a>
+<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/GNOME Builder-368CCB?style=for-the-badge&logo=git&logoColor=000000"></a>
 #
 ## ⭐️  Some technologies | Languages ⭐️
-<a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java -{JSF,JSP,JakartaEE}-6699CB?style=for-the-badge&logo=coffeescript&logoColor=FEFEFE"></a>
-<a href="https://www.rust-lang.org/pt-BR/"><img height= "35" src= "https://img.shields.io/badge/{...}-RUST-AA00FF?style=for-the-badge&logo=rust&logoColor=white"></a>
-<a href="https://www.rust-lang.org/pt-BR/"><img height= "35" src= "https://img.shields.io/badge/-9146FF?style=for-the-badge&logo=rust&logoColor=white"><img height= "35" src= "https://img.shields.io/badge/WebAssembly-AA00FF?style=for-the-badge&logo=WebAssembly&logoColor=white"></a> 
-<a href="https://www.android.com/"><img height= "35" src= "https://img.shields.io/badge/Kotlin-90E59A?style=for-the-badge&logo=kotlin&logoColor=000000"><img height= "35" src= "https://img.shields.io/badge/-90E59A?style=for-the-badge&logo=android&logoColor=000000"></a>
+<a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java -{JSF,JSP,JakartaEE}-15D1A0?style=for-the-badge&logo=coffeescript&logoColor=FEFEFE"></a>
+<a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/C++ -{Qt,wxWidgets,GTKmm}-6236FF?style=for-the-badge&logo=cplusplus&logoColor=FEFEFE"></a>
+<a href="https://www.rust-lang.org/pt-BR/"><img height= "35" src= "https://img.shields.io/badge/RUST-{ GTK, Qt }-AA00FF?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href="https://www.rust-lang.org/pt-BR/"><img height= "35" src= "https://img.shields.io/badge/RUST--ASSEMPLY-9146FF?style=for-the-badge&logo=rust&logoColor=white"></a> 
+<a href="https://www.android.com/"><img height= "35" src= "https://img.shields.io/badge/Kotlin-FF5A00?style=for-the-badge&logo=kotlin&logoColor=000000"><img height= "35" src= "https://img.shields.io/badge/-6DA252?style=for-the-badge&logo=android&logoColor=000000"></a>
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-F46D01?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://dart.dev/"><img height= "35" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-<a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-FF4747?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://www.lua.org/"><img height= "35" src= "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
 #
 ## ⭐️  Some technologies | Markup and Style-Sheets - Languages ⭐️
@@ -76,10 +79,8 @@ You need to create a Solution to your Problem, then you are in the right place, 
 
 #
 ##   <img height= "90" src= "https://img.shields.io/badge/Setup-000000?style=&logo=linux&logoColor=#A81D33?logoWidth=90"><img height= "90" src= "https://img.shields.io/badge/-000000?style=&logo=debian&logoColor=#A81D33?logoWidth=90">
-<a href="#"><img height= "30" src= "https://img.shields.io/badge/AMD-Ryzen-0071C5?style=for-the-badge&logo=AMD&logoColor=ED1C24?logoWidth=30"></a>
-<a href="#"><img height= "30" src= "https://img.shields.io/badge/AMD_Radeon_2085-76B900?style=for-the-badge&logo=AMD&logoColor=white"></a>
-<a href="#"><img height= "30" src= "https://img.shields.io/badge/HD-SSD-76B900?style=for-the-badge&logo=Seagate&logoColor=6EBE49?logoWidth=50"></a>
-<a href="#"><img height= "30" src= "https://img.shields.io/badge/Monitor(2/24)-76B900?style=for-the-badge&logo=AMD&logoColor=white"></a>
+<a href="#"><img height= "30" src= "https://img.shields.io/badge/INTEL-Xeon-0071C5?style=for-the-badge&logo=Intel&logoColor=ED1C24?logoWidth=30"></a>
+<a href="#"><img height= "30" src= "https://img.shields.io/badge/AMD_Radeon_4080-76B900?style=for-the-badge&logo=AMD&logoColor=white"></a>
 ****
 #
 ## 👇🏻  You can find me here  👇🏻
@@ -87,5 +88,5 @@ You need to create a Solution to your Problem, then you are in the right place, 
 <a href="https://www.instagram.com/pouleth0"><img height="50" src="https://img.shields.io/badge/Instagram-E4505F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/paulo-hendrix-9a823179"><img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/ra6cXhmZg8"><img height="50" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-
+<a href="https://wakatime.com/@Poul"><img height="50" src="https://img.shields.io/badge/wakatime-01CD3E?style=for-the-badge&logo=wakatime&logoColor=white"></a>
 </p>
